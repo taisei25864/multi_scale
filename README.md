@@ -46,7 +46,7 @@ gemとして配布する場合は gemspec を用意し、gem build / gem install
 
 ## 使い方
 
-### 今日の食事を追加する
+### 今日の食事(yamlに追加してあるもののみ)を追加する
 
 ```bash
 bundle exec nutribalance add --meal breakfast shokupan:60 yogurt_plain:100
@@ -55,6 +55,7 @@ bundle exec nutribalance add --meal breakfast shokupan:60 yogurt_plain:100
 - `--meal`：`breakfast` / `lunch` / `dinner`
 - `food:grams`：食品キーと量（g）  
   例：`shokupan:60` は食パン60g
+- yamlへの新たな食事の追加は後述
 
 ### 今日のレポートを表示する
 
