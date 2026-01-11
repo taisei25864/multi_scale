@@ -1,0 +1,11 @@
+# config/profile.yml
+profiles:
+  default_adult:
+    label: "成人(例)"
+    targets:
+      energy_kcal: 2200
+      protein_g: 65
+      fat_g: 60
+      carb_g: 300
+      fiber_g: 21
+      salt_g: 7.5
