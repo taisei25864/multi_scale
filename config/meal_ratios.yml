@@ -1,0 +1,5 @@
+# config/meal_ratios.yml
+ratios:
+  breakfast: 0.25
+  lunch: 0.35
+  dinner: 0.40

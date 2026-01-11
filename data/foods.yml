@@ -1,0 +1,26 @@
+---
+foods:
+  shokupan:
+    label: 食パン
+    per_100g:
+      energy_kcal: 260
+      protein_g: 9.0
+      fat_g: 4.2
+      carb_g: 46.0
+      salt_g: 1.2
+  yogurt_plain:
+    label: ヨーグルト(無糖)
+    per_100g:
+      energy_kcal: 62
+      protein_g: 3.6
+      fat_g: 3.0
+      carb_g: 4.7
+      salt_g: 0.1
+  natto:
+    label: 納豆
+    per_100g:
+      energy_kcal: 200.0
+      protein_g: 16.5
+      fat_g: 10.0
+      carb_g: 12.1
+      salt_g: 0.0
