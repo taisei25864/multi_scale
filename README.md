@@ -46,7 +46,7 @@ gemとして配布する場合は gemspec を用意し、gem build / gem install
 
 ## 使い方
 
-### 食事を追加する
+### 今日の食事を追加する
 
 ```bash
 bundle exec nutribalance add --meal breakfast shokupan:60 yogurt_plain:100
