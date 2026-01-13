@@ -27,13 +27,12 @@
 
 ```bash
 git clone <this-repo>
-cd nutribalance
 ```
 
 ### 2) リポジトリを取得
 
 ```bash
-bundle install
+(sudo) bundle install
 ```
 
 ### 3) CLIを実行（開発時）
